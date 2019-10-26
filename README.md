@@ -4,7 +4,7 @@ Advent of Code is a yearly programming challenge event consisting of 25 problems
 
 For details see: 
 
-[Advent of Code homepage](https://www.adventofcode.com/2015)
+[Advent of Code homepage](https://www.adventofcode.com)
 
 [AoC Subreddit](https://www.reddit.com/r/adventofcode)
 
